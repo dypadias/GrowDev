@@ -1,0 +1,8 @@
+#quadro{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    margin: 50px auto;
+    background-image: url(../Imagens/00001IMG_00001_BURST1576418829266_COVER.jpg);
+    background-blend-mode: overlay;
+}

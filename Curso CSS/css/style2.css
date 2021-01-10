@@ -1,0 +1,19 @@
+h1{
+    font-size: 50px;
+    color: lawngreen;
+    background-color: blue;
+}
+
+div{
+
+    font-size: 20px;
+    width: 200px;
+    background-color: darkgreen;
+}
+
+#quadro2{
+
+    
+    opacity: 0.6
+    ;
+}

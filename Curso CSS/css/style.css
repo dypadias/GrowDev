@@ -1,0 +1,21 @@
+h1{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: blueviolet;
+    text-align: center;
+    font-size: 55px;
+}
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.texto-dois{
+    color: chartreuse;
+}
+
+#linha3 {
+
+    color: khaki;
+
+}
