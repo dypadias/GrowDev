@@ -1,4 +1,4 @@
-var nome = "Diego Padias";
+var nome = "Diego Padias de Matos";
 var cargo = "CTO - GrowDev";
 
 var nomeHtml= document.getElementById("nome-no-html");
